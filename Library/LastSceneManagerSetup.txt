@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RW/Physics Materials/Scenes/Cubes.unity
+  isLoaded: 1
+  isActive: 1
