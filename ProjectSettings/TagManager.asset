@@ -7,6 +7,8 @@ TagManager:
   - NoPickUp
   - Pressable
   - MazeEnd
+  - GameManager
+  - IsMazeCube
   layers:
   - Default
   - TransparentFX
@@ -17,9 +19,9 @@ TagManager:
   - 
   - 
   - CanTeleport
+  - Physical
   - 
-  - 
-  - 
+  - PostProcess
   - 
   - 
   - 

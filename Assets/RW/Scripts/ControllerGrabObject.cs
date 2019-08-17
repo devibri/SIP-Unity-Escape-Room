@@ -15,8 +15,8 @@ public class ControllerGrabObject : MonoBehaviour
 
 	private void SetCollidingObject(Collider col)
 	{
-		// 1
-		if (collidingObject || col.gameObject.CompareTag ("NoPickUp"))
+        // 1
+        if (collidingObject ||col.gameObject.CompareTag ("NoPickUp"))
 		{
 			return;
 		}

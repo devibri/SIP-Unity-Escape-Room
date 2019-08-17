@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_Scenes/Main Menu Scene.unity
+    guid: c4d595c17d5aa43caab04ca8e5c4df1c
+  - enabled: 0
     path: Assets/RW/Physics Materials/Scenes/Game.unity
     guid: e823e573a604765459bc417243cd46b1
+  - enabled: 1
+    path: Assets/_Scenes/VR Escape Room.unity
+    guid: 07154ae0f0905b84284b37df1b84385a
   m_configObjects: {}
